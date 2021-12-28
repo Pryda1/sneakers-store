@@ -1,0 +1,40 @@
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2em;
+    border: 1px solid #e9e9e9;
+    border-radius: 2em;
+    margin-bottom: 2em;
+    margin-right: 2em;
+}
+.item__pic{
+    width: 8em;
+    padding-right: 2em;
+    object-fit: cover;
+}
+.item__text{
+    margin-right: 1.5em;
+    p{
+    font-size: 1.5em;
+    padding-bottom: 0.8em;
+    
+    }
+    b{
+        font-size: 1.5em;
+    }
+}
+.item__button{
+    width: 3em;
+    height: 3em;
+    img{
+        width: 3em;
+        height: 3em;
+        opacity: 0.5;
+        cursor: pointer;
+        transition: opacity 0.2s ease-in-out;
+        &:hover{
+            opacity: 1;
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    {
+    
+    "title": "Мужские кроссовки Nike Air Force 1 '07",
+    "price": 8999,
+    "link":"./img/sneakers/1.webp"
+    },
+    {
+    
+    "title": "Кроссовки adidas Originals Ozweego",
+    "price": 9999,
+    "link":"./img/sneakers/2.webp"
+    },
+    {
+    
+    "title": "Мужские кроссовки PUMA Mirage Sport",
+    "price": 8999,
+    "link":"./img/sneakers/3.webp"
+    },
+    {
+    
+    "title": "Мужские кроссовки adidas Originals Ozelia",
+    "price": 7999,
+    "link":"./img/sneakers/4.webp"
+    },
+    {
+    
+    "title": "Мужские кроссовки Nike Blazer Mid '77 Vintage",
+    "price": 8499,
+    "link":"./img/sneakers/5.webp"
+    },
+    {
+    
+    "title": "Мужские кроссовки adidas Originals Forum Low",
+    "price": 6999,
+    "link":"./img/sneakers/6.webp"
+    },
+    {
+    
+    "title": "Кроссовки PUMA Ralph Sampson 70 PxP White-Chinese",
+    "price": 6249,
+    "link":"./img/sneakers/7.webp"
+    },
+    {
+    
+    "title": "кроссовки Nike Air Max 90",
+    "price": 12499,
+    "link":"./img/sneakers/8.webp"
+    },
+    {
+    
+    "title": "Женские кроссовки Jordan MA2",
+    "price": 11799,
+    "link":"./img/sneakers/9.webp"
+    },
+    {
+    
+    "title": "Женские кроссовки Nike Dunk High Up",
+    "price": 11999,
+    "link":"./img/sneakers/10.webp"
+    },
+    {
+    "title": "Женские кроссовки PUMA Mirage Sport",
+    "price": 6999,
+    "link": "./img/sneakers/11.webp"
+    },
+    {
+    "title": "Женские кроссовки PUMA Cruise Rider Silk Road Wn",
+    "price": 6999,
+    "link": "./img/sneakers/12.webp"
+    }
+}

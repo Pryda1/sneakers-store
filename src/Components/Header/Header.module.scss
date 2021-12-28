@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 2em;
+    border-bottom: 1px solid #EAEAEA;;
+    &__logo{
+        display: flex;
+        align-items: center;
+        img{
+            padding-right: 1.2em;
+            object-fit: contain;
+        }
+        .logo__text{
+            p{
+                opacity: 0.5;
+            }
+        }
+    }
+    h3{
+        font-size: 2em;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+    p{
+        font-size: 1.4em;
+        font-weight: 400;
+    }
+    &__user{
+        display: flex;
+        align-items: center;
+        li{
+            padding-right: 3em;
+            cursor: pointer;
+            span{
+                padding-left: 0.5em;
+                font-size: 1.4em;
+                font-weight: 500;
+            }
+        }
+    }
+}
